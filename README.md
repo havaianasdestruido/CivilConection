@@ -246,6 +246,8 @@ Consulte a [Documentação Completa da API](docs/api.md) para detalhes de payloa
 
 ## 📚 Documentação Adicional
 
+> 📘 **Portal Docusaurus:** documentação completa, pesquisável e com diagramas em [`website/`](website/). Execute com `cd website && npm install && npm start`.
+
 - [📄 Especificação Original (Spec Etec)](docs/spec.md)
 - [🏛️ Arquitetura e Diagramas do Sistema](docs/architecture.md)
 - [📡 Especificação Técnica da API REST](docs/api.md)
